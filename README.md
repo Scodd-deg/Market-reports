@@ -14,10 +14,7 @@ Equities
 -Central Bank Policy
 -Trade Ideas
 Company Research
-Objectives
--Develop a deeper understanding of global financial markets.
--Build professional-grade market awareness.
--Improve investment and economic analysis skills.
+
 Key Questions
 Each research note attempts to answer:
 
